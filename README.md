@@ -1,2 +1,2 @@
-# ttt
+# Tic Tac Toe
 tic tac toe
