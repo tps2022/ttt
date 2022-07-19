@@ -11,7 +11,8 @@ To play:
 - Run npm install
 - Run npm start
 <br/>
-The game:
+A blank game board:
+
 ![Screenshot of a Blank Tic Tac Toe Board](https://tps2022.github.io/ttt/readmescreenshots/blankboard.png)
 
 An example of Player 0 Winning:
