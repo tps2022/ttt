@@ -6,11 +6,6 @@ About the Game: Tic Tac Toe is traditionally played on a 3 × 3 grid. Players ta
 <br /><br />
 Features -  reset button to restart game, and a grid of 9 squares for game play, game status update
 <br/>
-To play:
-- Clone this repo
-- Run npm install
-- Run npm start
-<br/>
 A blank game board:
 
 ![Screenshot of a Blank Tic Tac Toe Board](https://tps2022.github.io/ttt/readmescreenshots/blankboard.png)
