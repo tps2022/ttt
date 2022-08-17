@@ -12,13 +12,13 @@ Tic Tac Toe is traditionally played on a 3 × 3 grid. Players take turns placing
 ## Screenshots
 
 **A blank game board**:
-![Screenshot of a Blank Tic Tac Toe Board](https://tps2022.github.io/ttt/readmescreenshots/blankboard.png)
+![Screenshot of a Blank Tic Tac Toe Board](https://tps2022.github.io/ttt/img/blankboard.png)
 
 **An example of Player 0 Winning**:
-![Screenshot of Player 0 Winning](https://tps2022.github.io/ttt/readmescreenshots/player0win.png)
+![Screenshot of Player 0 Winning](https://tps2022.github.io/ttt/img/player0win.png)
 
 **An example of Player X Winning**:
-![Screenshot of Player X Winning](https://tps2022.github.io/ttt/readmescreenshots/playerXwin.png)
+![Screenshot of Player X Winning](https://tps2022.github.io/ttt/img/playerXwin.png)
 
 **An example of a Tie Game where neither Player Wins**:
-![Screenshot of Tie Game](https://tps2022.github.io/ttt/readmescreenshots/tiegame.png)
+![Screenshot of Tie Game](https://tps2022.github.io/ttt/img/tiegame.png)
